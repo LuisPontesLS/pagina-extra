@@ -10,7 +10,7 @@
 }
 body {
   background-color: #181a1b;
-  border: 2px solid var(--cor1-borda);
+  border: 3px solid var(--cor1-borda);
   margin: 20px;
 }
 
@@ -18,19 +18,25 @@ span {
   color: #ff4600;
 }
 
-.poster {
+/* img.poster {
   max-width: 100%;
   align-items: center;
+} */
+
+img.para-mandarin {
+  max-width: 50%;
 }
 
 h2.de-luis {
     text-indent: 20px;
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    font-size: 2.5em;
+    margin-top: 15px;
 }
 
 h2.para-mandarin {
     text-indent: 40px;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 h1 {
