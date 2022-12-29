@@ -14,6 +14,9 @@ body {
   margin: 20px;
 }
 
+div.de-para{ 
+  margin: 20px;
+}
 span {
   color: #ff4600;
 }
@@ -29,14 +32,16 @@ img.para-mandarin {
 
 h2.de-luis {
     text-indent: 20px;
-    /* text-decoration: underline; */
     font-size: 2.5em;
     margin-top: 15px;
+    margin: 20px;
+    font-size: 3em;
 }
 
 h2.para-mandarin {
     text-indent: 40px;
-    /* text-decoration: underline; */
+    /* margin-bottom: -6px; */
+    font-size: 3em;
 }
 
 h1 {
