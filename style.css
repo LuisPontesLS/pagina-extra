@@ -19,7 +19,8 @@ span {
 }
 
 .poster {
-  max-width: 90%;
+  max-width: 100%;
+  align-items: center;
 }
 
 h2.de-luis {
@@ -42,6 +43,7 @@ p {
     text-align: justify;
     padding: 20px;
     text-indent: 3em;
+    font-size: 120%;
 }
 
 footer {
